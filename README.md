@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Music & Podcast Platform**
 
-- 🌱 I’m currently learning **NodeJS, Machine Learning**
+- 🌱 I’m currently learning **ReactJS, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://yogiraj-shinde-portfolio.netlify.app/](https://yogiraj-shinde-portfolio.netlify.app/)
 
