@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogirajbshinde21&label=Profile%20views&color=0e75b6&style=flat" alt="yogirajbshinde21" /> </p>
 
-- 🔭 I’m currently working on **Music & Podcast Platform**
+- 🔭 I’m currently working on **Fintech Platform**
 
 - 🌱 I’m currently learning **ReactJS, Machine Learning**
 
